@@ -38,6 +38,7 @@ information;
 request; and
 5. We will not retain your personal information longer than the period for which it was originally required,
 unless we are required by law to do so, or you consent to us retaining such information for a longer period.
+
 ALTHOUGH WE TAKE THE AFOREMENTIONED PRECAUTIONS IN PROTECTING YOUR PERSONAL INFORMATION,
 WE SHALL HOWEVER NOT BE LIABLE FOR ANY LOSS OR DAMAGE, HOWSOEVER ARISING, SUFFERED AS A
 RESULT OF THE DISCLOSURE OF SUCH INFORMATION IF OUTSIDE OUR REASONABLE CONTROL.
